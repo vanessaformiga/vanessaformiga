@@ -2,7 +2,7 @@
 
 I'm from Brasília :heart:
 
-I'm a graduate in internet systems 
+I am a graduate in Internet Systems 
 
 ## Contact
 
