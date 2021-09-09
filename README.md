@@ -1,6 +1,6 @@
 # Hi, I'm Vanessa 👋
 
-I'm from Brasília :heart:
+I'm from  Brazil
 
 I am a graduate in Internet Systems 
 
