@@ -1,6 +1,6 @@
 # Hi, I'm Vanessa Formiga👋
 
-I'm from Brazil and I live in Brasília. I hold a degree in Internet Systems. Additionally, I am a developer with two years of experience using Python, specializing in Repetitive Process Automation (RPA).
+I'm from Brazil and I live in Brasília. I hold a degree in Internet Systems. Additionally, I am a developer with two years of experience using Python, specializing in Robotic Process Automation (RPA). 
 
 ## Contatos
 
